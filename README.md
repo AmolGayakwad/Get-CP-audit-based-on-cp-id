@@ -9,13 +9,13 @@ This script demonstrates how to:
 - Authenticate with OpenSpecimen using REST API
 - Input a CP ID from the user
 - Fetch details of the Collection Protocol
-- Save the CP data as a `.json` file
+- Save the CP data as a .json file
 
 ---
 
 ### **Requirements**
 - Python 3.x
-- `requests` module  
+- requests module  
 
 ### **Steps to Run**
 
