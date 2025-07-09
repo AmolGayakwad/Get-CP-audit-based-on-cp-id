@@ -1,0 +1,97 @@
+{
+  "id": 1780,
+  "shortTitle": "(UAHS) [AL] Aging HIV/Long COVID_WF",
+  "title": "(UAHS) [AL] Aging HIV/Long COVID_WF",
+  "principalInvestigator": {
+    "id": 1055,
+    "type": "SUPER",
+    "firstName": "Saurav",
+    "lastName": "Raj Singh",
+    "loginName": "saurav@krishagni.com",
+    "domain": "Krishagni_LDAP",
+    "emailAddress": "saurav@krishagni.com",
+    "instituteId": 279,
+    "instituteName": "DEMO-130: Saurav Institute",
+    "admin": true,
+    "instituteAdmin": false,
+    "manageForms": true,
+    "manageWfs": true,
+    "managePrintJobs": true,
+    "downloadLabelsPrintFile": false,
+    "cpCount": 0,
+    "creationDate": 1624320000000,
+    "activityStatus": "Active"
+  },
+  "ppidFmt": "%SYS_UID%",
+  "manualPpidEnabled": false,
+  "specimenCentric": false,
+  "draftMode": false,
+  "coordinators": [
+    {
+      "id": 1626,
+      "type": "SUPER",
+      "firstName": "Amol",
+      "lastName": "Gayakwad",
+      "loginName": "amol@krishagni.com",
+      "domain": "openspecimen",
+      "emailAddress": "amol@krishagni.com",
+      "instituteId": 568,
+      "instituteName": "1Test_Institute RP",
+      "admin": true,
+      "instituteAdmin": false,
+      "manageForms": true,
+      "manageWfs": true,
+      "managePrintJobs": true,
+      "downloadLabelsPrintFile": false,
+      "cpCount": 0,
+      "creationDate": 1710288000000,
+      "activityStatus": "Active"
+    }
+  ],
+  "cpSites": [
+    {
+      "id": 2382,
+      "siteId": 808,
+      "siteName": "DEMO-130: Saurav Institute",
+      "code": null
+    }
+  ],
+  "consentsWaived": false,
+  "specimenLabelFmt": "%SYS_UID%",
+  "derivativeLabelFmt": "",
+  "aliquotLabelFmt": "",
+  "visitNameFmt": "%SYS_UID%",
+  "manualVisitNameEnabled": false,
+  "manualSpecLabelEnabled": false,
+  "kitLabelsEnabled": false,
+  "barcodingEnabled": false,
+  "closeParentSpecimens": false,
+  "containerSelectionStrategy": "recently-used",
+  "draftDataEntry": false,
+  "labelSequenceKey": "ID",
+  "visitCollectionMode": "ALL_SPMNS",
+  "visitNamePrintMode": "NONE",
+  "spmnLabelPrePrintMode": "NONE",
+  "spmnLabelPrintSettings": [
+    {
+      "id": 3388,
+      "lineage": "New",
+      "printMode": null,
+      "copies": null
+    },
+    {
+      "id": 3389,
+      "lineage": "Derived",
+      "printMode": null,
+      "copies": null
+    },
+    {
+      "id": 3390,
+      "lineage": "Aliquot",
+      "printMode": null,
+      "copies": null
+    }
+  ],
+  "distributionProtocols": [],
+  "activityStatus": "Active"
+}
